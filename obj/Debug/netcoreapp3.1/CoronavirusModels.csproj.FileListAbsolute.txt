@@ -1,0 +1,9 @@
+C:\Users\jerus\source\repos\CoronavirusModels\bin\Debug\netcoreapp3.1\CoronavirusModels.deps.json
+C:\Users\jerus\source\repos\CoronavirusModels\bin\Debug\netcoreapp3.1\CoronavirusModels.dll
+C:\Users\jerus\source\repos\CoronavirusModels\bin\Debug\netcoreapp3.1\CoronavirusModels.pdb
+C:\Users\jerus\source\repos\CoronavirusModels\obj\Debug\netcoreapp3.1\CoronavirusModels.csproj.CoreCompileInputs.cache
+C:\Users\jerus\source\repos\CoronavirusModels\obj\Debug\netcoreapp3.1\CoronavirusModels.AssemblyInfoInputs.cache
+C:\Users\jerus\source\repos\CoronavirusModels\obj\Debug\netcoreapp3.1\CoronavirusModels.AssemblyInfo.cs
+C:\Users\jerus\source\repos\CoronavirusModels\obj\Debug\netcoreapp3.1\CoronavirusModels.dll
+C:\Users\jerus\source\repos\CoronavirusModels\obj\Debug\netcoreapp3.1\CoronavirusModels.pdb
+C:\Users\jerus\source\repos\CoronavirusModels\obj\Debug\netcoreapp3.1\CoronavirusModels.csprojAssemblyReference.cache
